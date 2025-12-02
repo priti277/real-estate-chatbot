@@ -2,7 +2,6 @@
 
 A full-stack web application that analyzes real estate data through a conversational AI interface. Built with React frontend and Django backend.
 
-![Demo](demo-screenshot.png)
 
 ##  Features
 
